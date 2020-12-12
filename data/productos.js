@@ -14,7 +14,7 @@
         "descripcion": "Jardín vertical deck de madera precio por metro cuadrado. Listo para instalar",
         "categoria": "Huertas & Compost",
         "precio": "15.000",
-        "disponible": false,
+        "disponible": true,
         "imagen": "https://http2.mlstatic.com/D_NQ_NP_910449-MLA27278413401_052018-O.webp"
     },
     {
@@ -77,7 +77,7 @@
         "descripcion": "Cartera compacta realizada con materiales reciclados, es apta para los días de lluvia- salvo la zona del cierre- y se limpia con un paño húmedo. El color de las tiras varía según la disponibilidad, consultar antes. Está realizada por talleres sociales con la finalidad de promover el trabajo inclusivo y la Moda Sostenible.",
         "categoria": "Moda sostenible",
         "precio": "1.810",
-        "disponible": false,
+        "disponible": true,
         "imagen": "https://http2.mlstatic.com/D_NQ_NP_753785-MLA42953351679_072020-O.webp"
     },
     {
@@ -86,7 +86,7 @@
         "descripcion": "3 sets de 3 unidades cada uno de posavasos fabricados en 100% plástico reciclado, convirtiendo un material descartado en un producto útil y funcional que te acompañará durante muchos años.",
         "categoria": "Bazar & Cocina",
         "precio": "700",
-        "disponible": false,
+        "disponible": true,
         "imagen": "https://http2.mlstatic.com/D_NQ_NP_751947-MLA42882703231_072020-O.webp"
     },
     {
@@ -104,7 +104,7 @@
         "descripcion": "REMERA MANGA CORTA CUELLO REDONDO, CLASICO. * Súper suave, cómoda y flexible por la ligereza de la tela de bamboo. * Hipoalergénica * Antibacteriana * Con protección UV. * Absorbe cuatro veces más que una prenda de algodón - Dri Fit Natural. * 100% ecológica/orgánica",
         "categoria": "Moda sostenible",
         "precio": "1.999",
-        "disponible": false,
+        "disponible":true,
         "imagen": "https://http2.mlstatic.com/D_NQ_NP_918397-MLA31591296422_072019-O.webp"
     },
     {
